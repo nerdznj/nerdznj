@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nerdznj (emad khosravi)
+- 👋 Hi, I’m @nerdznj (Amin Taghbibigloo)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on with my dear friend (komeyl).
 - 📫 How to reach me ... (you can't reach)
-- 😄 Pronouns: emad . amir . TG
+- 😄 Pronouns: emad . amin . TG
 - ⚡ Fun fact: ...
 
 <!---
