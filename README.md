@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nerdznj (Amin Taghbibigloo)
+- 👋 Hi, I’m @nerdznj (Amin_R@dikal)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ... (you can't reach)
-- 😄 Pronouns: emad . amin . TG
+- 😄 Pronouns: emad . amin . R@dikal
 - ⚡ Fun fact: ...
 
 <!---
